@@ -1,4 +1,4 @@
-// CSCI 324: Implementing basic HTTP web server
+// Implementing basic HTTP web server
 // Luke Reichold, 2014
 
 #include <stdio.h>
